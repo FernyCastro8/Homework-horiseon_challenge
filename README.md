@@ -28,3 +28,4 @@ https://github.com/FernyCastro8/horiseon-updated-site.git
 
 - URL
 
+https://fernycastro8.github.io/horiseon-updated-site/#search-engine-optimization
